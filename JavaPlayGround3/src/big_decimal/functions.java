@@ -1,3 +1,13 @@
+/*
+ * Name: Jose Terrones Jr.
+ * Purpose: Provides the menu and functions the user can use.
+ * One function will set the decimal places for the remaining 
+ * decimal places. The second function will determine which
+ * integer occurs the most and print the result. The final option
+ * will calculate the standard deviation using a list of numbers entered
+ * by the users. 
+ */
+
 package big_decimal;
 
 import java.math.BigDecimal;
