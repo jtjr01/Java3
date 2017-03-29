@@ -13,6 +13,7 @@ public class functions {
 	ArrayList<Float> numbs = new ArrayList<Float>();
 	ArrayList<Integer> freq = new ArrayList<Integer>();
 	Scanner scan = new Scanner(System.in);
+	
 	void function()
 	{
 		
