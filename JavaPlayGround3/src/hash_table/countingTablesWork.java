@@ -8,7 +8,7 @@
  * calculate the mode.
  */
 
-package lab6;
+package hash_table;
 
 import java.util.*;
 

@@ -5,7 +5,7 @@
  * The calculation of the mode using two different methods is present.
  */
 
-package lab6;
+package hash_table;
 
 public class countingTables {
 
